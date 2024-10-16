@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "./static/css/main.171b60da.css",
+    "main.js": "./static/js/main.2633ab97.js",
+    "static/js/453.8c68eb57.chunk.js": "./static/js/453.8c68eb57.chunk.js",
+    "static/media/todolist-06big.png": "./static/media/todolist-06big.90c0ab83a64dd6c57ebf.png",
+    "static/media/calc-05big.jpg": "./static/media/calc-05big.9b79d4568bd6ba7877f4.jpg",
+    "static/media/crm-01big.jpeg": "./static/media/crm-01big.342fa3f6cde0f0ad2dbf.jpeg",
+    "static/media/calc-05.jpg": "./static/media/calc-05.c9cb9eee4be0fdef3b64.jpg",
+    "static/media/quiz-04big.jpg": "./static/media/quiz-04big.0530b6722a95e56f7b39.jpg",
+    "static/media/todolist-06.png": "./static/media/todolist-06.092911f092032339eed7.png",
+    "static/media/quiz-04.jpg": "./static/media/quiz-04.c40582f8de8b671b70d1.jpg",
+    "static/media/cart-02big.jpg": "./static/media/cart-02big.36041b309c2b189fc334.jpg",
+    "static/media/crm-01.jpeg": "./static/media/crm-01.8a269849371b5a2057d9.jpeg",
+    "static/media/cart-02.jpg": "./static/media/cart-02.576015f2d881303d56a1.jpg",
+    "static/media/header-bg.png": "./static/media/header-bg.5bf82a058f892ab7f237.png",
+    "static/media/users-03big.png": "./static/media/users-03big.8ff1691e8dcd49672949.png",
+    "static/media/sun.svg": "./static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "./static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub.svg": "./static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/gitHub-black.svg": "./static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/instagram.svg": "./static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
+    "static/media/vk.svg": "./static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
+    "static/media/twitter.svg": "./static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
+    "static/media/linkedIn.svg": "./static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "index.html": "./index.html",
+    "main.171b60da.css.map": "./static/css/main.171b60da.css.map",
+    "main.2633ab97.js.map": "./static/js/main.2633ab97.js.map",
+    "453.8c68eb57.chunk.js.map": "./static/js/453.8c68eb57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.171b60da.css",
+    "static/js/main.2633ab97.js"
+  ]
+}
